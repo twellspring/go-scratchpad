@@ -1,0 +1,12 @@
+alb:
+    url: "https://mn-ook.baseplatform2.irondev.io/goecho"
+auth:
+    url: "https://auth.baseplatform2.irondev.io/"
+    username: "xxx"
+    password: "xxx"
+userpool:
+    poolid: "us-east-2_kyxvlm7s8"
+    clientid: "xxx"
+    clientsecret: "xxx"
+    redirect: "https%3A%2F%2Fmn-ook.baseplatform2.irondev.io%2Foauth2%2Fidpresponse"
+
